@@ -1,0 +1,70 @@
+Return-Path: f.naghizadeh@vada.ir
+Received: from email.vada.ir (LHLO email.vada.ir) (164.138.22.108) by
+ email.vada.ir with LMTP; Tue, 29 Jan 2019 12:11:16 +0330 (IRST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by email.vada.ir (Postfix) with ESMTP id 612EC301450C0
+	for <webmaster@asheghnameh.com>; Tue, 29 Jan 2019 12:11:16 +0330 (+0330)
+X-Spam-Flag: NO
+X-Spam-Score: -2.999
+X-Spam-Level:
+X-Spam-Status: No, score=-2.999 required=6.6 tests=[ALL_TRUSTED=-1,
+	BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001] autolearn=ham autolearn_force=no
+Authentication-Results: email.vada.ir (amavisd-new); dkim=pass (2048-bit key)
+	header.d=vada.ir
+Received: from email.vada.ir ([127.0.0.1])
+	by localhost (email.vada.ir [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id PwxFgIgPeyla for <webmaster@asheghnameh.com>;
+	Tue, 29 Jan 2019 12:11:16 +0330 (+0330)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by email.vada.ir (Postfix) with ESMTP id 127BE301450CB
+	for <webmaster@asheghnameh.com>; Tue, 29 Jan 2019 12:11:16 +0330 (+0330)
+DKIM-Filter: OpenDKIM Filter v2.10.3 email.vada.ir 127BE301450CB
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=vada.ir; s=selector;
+	t=1548751276; bh=ymc7taNWikkNL4UdqE9y6ISBnJJCggvUJd+8SHt+hhA=;
+	h=Date:From:To:Message-ID:MIME-Version;
+	b=KZMQmz4bg5v1Pb85vrn5b6FcpBoZHZnXPZxlqd0H2jhvnKOqAsupRUyWs2y/HPC0j
+	 EyFe+eorFDr2/j5osI/uLS3pGcwWbSm4HJmIqHF1LnJ+vzQnyFOOjZWVdS7u355ol9
+	 Nz8cpLctMqJmq0UBeEzQSd9FKvnKiNYYude1A49Ioik0SnwtPN8v6lETLo4nYOGrzO
+	 jNz8sFiXOCkjmeNAHHZoUTgniHpIP78mjBSL2xdtjOSswHOkm0qcJPfE/aZ25Xwn3p
+	 W04jCJ0+o3iKyINxCaEfZ6jXJ+kw9vWBps4HvnLad7rCifbU2Gh7ZtP47/YALJTGvo
+	 qXWFVo/HoimNQ==
+X-Virus-Scanned: amavisd-new at vada.ir
+Received: from email.vada.ir ([127.0.0.1])
+	by localhost (email.vada.ir [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id IGbfAVmDpdjw for <webmaster@asheghnameh.com>;
+	Tue, 29 Jan 2019 12:11:15 +0330 (+0330)
+Received: from email.vada.ir (localhost.localdomain [127.0.0.1])
+	by email.vada.ir (Postfix) with ESMTP id EC350301450C0
+	for <webmaster@asheghnameh.com>; Tue, 29 Jan 2019 12:11:15 +0330 (+0330)
+Date: Tue, 29 Jan 2019 12:11:15 +0330 (IRST)
+From: Farshid NaghiZadeh <f.naghizadeh@vada.ir>
+To: webmaster@asheghnameh.com
+Message-ID: <688437070.71382.1548751275871.JavaMail.zimbra@vada.ir>
+Subject: test
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="=_150d90e5-68bf-476e-9372-0f91cb9b34cf"
+X-Originating-IP: [178.252.146.66]
+X-Mailer: Zimbra 8.7.0_GA_1659 (ZimbraWebClient - GC71 (Mac)/8.7.0_GA_1659)
+Thread-Index: jcw8+m1aOBGyeRTEJCPlvBNiQFXYiw==
+Thread-Topic: test
+
+--=_150d90e5-68bf-476e-9372-0f91cb9b34cf
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+PROTOCOL
+--- 
+Farshid Naghizadeh 
+IT Operations Engineer 
+VADA House of Mobile 
++98 (21) 66568398 
+
+--=_150d90e5-68bf-476e-9372-0f91cb9b34cf
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="font-family: arial, helvetica, sans-serif; font-size: 12pt; color: #000000" dir="RTL"><div><br></div><div><br></div><div data-marker="__SIG_PRE__"><div style="text-align: left;" dir="ltr"><span style="font-family: &quot;trebuchet ms&quot;, sans-serif;">---</span><br><span style="font-family: &quot;trebuchet ms&quot;, sans-serif;">Farshid Naghizadeh</span><br><span style="font-family: &quot;trebuchet ms&quot;, sans-serif;">IT Operations Engineer</span><br><span style="font-family: &quot;trebuchet ms&quot;, sans-serif;">VADA House of Mobile</span><br><span style="font-family: &quot;trebuchet ms&quot;, sans-serif;">+98 (21) 66568398</span></div></div></div></body></html>
+--=_150d90e5-68bf-476e-9372-0f91cb9b34cf--

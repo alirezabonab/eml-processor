@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "p1",
+      "keywords": ["SECURITY"],
+      "destDir": "./sample/dest",
+      "SourceDir": "./sample/source",
+      "clearDest": true
+    },
+    {
+      "name": "p2",
+      "keywords": ["XMAIL"],
+      "destDir": "./sample/dest",
+      "SourceDir": "./sample/source",
+      "clearDest": true
+    },
+    {
+      "name": "p3",
+      "keywords": ["PASS"],
+      "destDir": "./sample/dest",
+      "SourceDir": "./sample/source",
+      "clearDest": true
+    },
+    {
+      "name": "p4",
+      "keywords": ["PROTOCOL", "XMAIL"],
+      "destDir": "./sample/dest",
+      "SourceDir": "./sample/source",
+      "clearDest": true
+    }
+  ]
+}
